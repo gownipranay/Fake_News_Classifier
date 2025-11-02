@@ -1,0 +1,9 @@
+REQUIREMENTS:-
+            pytesseract
+            pillow
+            langchain
+            langgraph
+            transformers
+            torch
+            pdfplumber
+            pandas
